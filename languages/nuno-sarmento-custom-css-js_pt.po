@@ -1,0 +1,46 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: pt\n"
+
+#: ../admin/nuno-sarmento-services.php:59
+msgid "Nuno Sarmento Custom CSS - JS"
+msgstr "Nuno Sarmento plugin - Modifique CSS e JS"
+
+#: ../admin/nuno-sarmento-services.php:60
+msgid ""
+"Enter your custom Javascript and CSS that will be used on each page and post "
+"on your site"
+msgstr ""
+"Introduza aqui o seu código Javascript e CSS , o seu código depois de "
+"gravado vai aparecer em todos os posts e paginas  "
+
+#: ../admin/nuno-sarmento-services.php:65
+msgid "Save"
+msgstr "Guarde "
+
+#: ../admin/nuno-sarmento-services.php:109
+msgid "Enter your custom CSS here (no need to add <style></style> )"
+msgstr ""
+"Introduza aqui o seu código CSS não precisa de adicionar as tags <style></"
+"style>"
+
+#: ../admin/nuno-sarmento-services.php:113
+msgid "Enter your custom javascript here (no need to add <script></script>)"
+msgstr ""
+"Introduza aqui o seu código JS não precisa de adicionar as tags <script></"
+"script>"
+
+#: ../admin/nuno-sarmento-services.php:117
+msgid "Add your external javascript url, one entry per line."
+msgstr ""
+"Adicione aqui os seus externos scripts, adicione uma url por parágrafo "

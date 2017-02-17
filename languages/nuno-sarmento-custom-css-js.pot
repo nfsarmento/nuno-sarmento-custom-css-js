@@ -1,0 +1,38 @@
+"Project-Id-Version: Nuno Sarmento Custom CSS - JS\n"
+"POT-Creation-Date: 2017-01-20 20:22+0000\n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_GB\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../admin/nuno-sarmento-services.php:59
+msgid "Nuno Sarmento Custom CSS - JS"
+msgstr ""
+
+#: ../admin/nuno-sarmento-services.php:60
+msgid "Enter your custom Javascript and CSS that will be used on each page and post on your site"
+msgstr ""
+
+#: ../admin/nuno-sarmento-services.php:65
+msgid "Save"
+msgstr ""
+
+#: ../admin/nuno-sarmento-services.php:109
+msgid "Enter your custom CSS here (no need to add <style></style> )"
+msgstr ""
+
+#: ../admin/nuno-sarmento-services.php:113
+msgid "Enter your custom javascript here (no need to add <script></script>)"
+msgstr ""
+
+#: ../admin/nuno-sarmento-services.php:117
+msgid "Add your external javascript url, one entry per line."
+msgstr ""
