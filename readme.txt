@@ -32,7 +32,6 @@ https://twitter.com/Nuno_M_Sarmento.
 
 == Installation ==
 
-= Automatic installation =
 
 1. Go to Plugins > Add New > Upload and select the .zip file from your hard disk
 2. Click the "Install now" button
