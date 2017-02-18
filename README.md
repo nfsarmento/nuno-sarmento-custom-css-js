@@ -62,7 +62,6 @@ A - As soon you got the plugin active on your website you will find at the botto
 
 ![Nuno Sarmento custom CSS - JS](https://github.com/nfsarmento/nuno-sarmento-custom-css-js/blob/master/assets/images/screenshot-1.png "Optional title")
 ![CSS - JS on individual posts](https://github.com/nfsarmento/nuno-sarmento-custom-css-js/blob/master/assets/images/screenshot-2.png "Optional title")
-![CSS - JS on individual pages](https://github.com/nfsarmento/nuno-sarmento-custom-css-js/blob/master/assets/images/screenshot-3.png "Optional title")
 
 
 
