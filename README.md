@@ -12,10 +12,10 @@ Nuno Sarmento Custom CSS - JS plugin allows to add custom CSS and JS on your Wor
 
 **Current Features**
 
-1 -  Custom CSS - JS on individual posts.
-2 -  Custom CSS - JS on individual pages.
-3 -  Custom CSS - JS on mobile, tablet, and laptop, and desktop.
-4 -  Allow to add custom Javascript and Jquery.
+1 -  Custom CSS - JS on individual posts. <br />
+2 -  Custom CSS - JS on individual pages. <br />
+3 -  Custom CSS - JS on mobile, tablet, and laptop, and desktop. <br />
+4 -  Allow to add custom Javascript and Jquery. <br />
 
 
 
@@ -36,11 +36,11 @@ https://twitter.com/Nuno_M_Sarmento.
 
 **Installation**
 
-1 - Go to Plugins > Add New > Upload and select the .zip file from your hard disk
-2 - Click the "Install now" button
-3 - Activate the plugin through the 'Plugins' menu in WordPress
-4 - Find "Nuno Sarmento Custom CSS - JS" menu in admin side navigation
-5 - The easy and simply way to install is through the WordPress plugin directory.
+1 - Go to Plugins > Add New > Upload and select the .zip file from your hard disk <br />
+2 - Click the "Install now" button <br />
+3 - Activate the plugin through the 'Plugins' menu in WordPress <br />
+4 - Find "Nuno Sarmento Custom CSS - JS" menu in admin side navigation <br />
+5 - The easy and simply way to install is through the WordPress plugin directory. <br />
 
 
 
@@ -53,7 +53,7 @@ https://twitter.com/Nuno_M_Sarmento.
 
 **Frequently Asked Questions**
 
-Q - How do I edit an individual post or page?
+Q - How do I edit an individual post or page? <br />
 A - As soon you got the plugin active on your website you will find at the bottom of each page or post three new meta boxes where you can add your custom JS and CSS.
 
 
