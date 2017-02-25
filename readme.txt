@@ -51,8 +51,6 @@ As soon you got the plugin active on your website you will find at the bottom of
 
 == Screenshots ==
 1. Nuno Sarmento custom CSS - JS
-2. Nuno Sarmento custom CSS - JS on individual posts
-3. Nuno Sarmento custom CSS - JS on individual pages
 
 = Localization =
 

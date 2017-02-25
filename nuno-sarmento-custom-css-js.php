@@ -59,6 +59,6 @@ load_plugin_textdomain( 'nuno-sarmento-custom-css-js', false, basename( dirname(
 // Require services --------------
 --------------------------------------------- */
 
-if ( ! @include( 'nuno-sarmento-services.php' ) ) {
-	require_once( NUNO_SARMENTO_CUSTOM_CSS_JS_PATH . 'admin/nuno-sarmento-services.php' );
+if ( ! @include( 'nuno-sarmento-custom-css-js-services.php' ) ) {
+	require_once( NUNO_SARMENTO_CUSTOM_CSS_JS_PATH . 'admin/nuno-sarmento-custom-css-js-services.php' );
 }
