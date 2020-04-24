@@ -1,10 +1,10 @@
 <?php
 /*
 Plugin Name: Nuno Sarmento Custom CSS - JS
-Plugin URI: http://www.nuno-sarmento.com
+Plugin URI: https://en-gb.wordpress.org/plugins/nuno-sarmento-custom-css-js/
 Description: Nuno Sarmento Custom CSS - JS Simple plugin allows you to add custom CSS and Javascript to pages and posts.
-Version: 1.0.0
-Author: Nuno Sarmento
+Version: 1.0.3
+Author: Nuno Morais Sarmento
 Author URI: http://www.nuno-sarmento.com
 Text Domain: tend-custom-css-js
 Domain Path: /languages
@@ -34,7 +34,7 @@ defined('ABSPATH') or die('°_°’');
 /* Set plugin version constant. */
 
 if( ! defined( 'NUNO_SARMENTO_CUSTOM_CSS_JS_VERSION' ) ) {
-	define( 'NUNO_SARMENTO_CUSTOM_CSS_JS_VERSION', '1.0.0' );
+	define( 'NUNO_SARMENTO_CUSTOM_CSS_JS_VERSION', '1.0.1' );
 }
 
 /* Set plugin name. */
