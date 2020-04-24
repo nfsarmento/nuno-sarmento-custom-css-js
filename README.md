@@ -19,21 +19,6 @@ Nuno Sarmento Custom CSS - JS plugin allows to add custom CSS and JS on your Wor
 
 
 
-**Click to watch the plugin video**
-
-[![Nuno Sarmento PopUp WordPress Plugin](https://i.ytimg.com/vi/P-tGKurW_f8/1.jpg)](https://www.youtube.com/watch?v=x063GEwTfUA)
-
-
-
-
-**Suggestions**
-
-If you have suggestions for a new add-on, feel free to email me at nfsarmento@gmail.com .
-Or follow me on Twitter!
-https://twitter.com/Nuno_M_Sarmento.
-
-
-
 **Installation**
 
 1 - Go to Plugins > Add New > Upload and select the .zip file from your hard disk <br />
