@@ -1,21 +1,19 @@
-#  Nuno Sarmento Custom CSS - JS WordPress Plugin
-
-
-Nuno Sarmento Custom CSS - Add custom JavaScripts and CSS Styling.
+#  WordPress Custom CSS & JS Plugin
 
 
 **Description**
 
-Nuno Sarmento Custom CSS - JS plugin allows to add custom CSS and JS on your WordPress website without need to edit any files
-
+Custom CSS & JS plugin allows us to add custom CSS and Javascript functions on your WordPress website without editing any theme’s style and script files, the plugin also allows us to add external URLs with your style or script
 
 
 **Current Features**
 
-1 -  Custom CSS - JS on individual posts. <br />
-2 -  Custom CSS - JS on individual pages. <br />
-3 -  Custom CSS - JS on mobile, tablet, and laptop, and desktop. <br />
-4 -  Allow to add custom Javascript and Jquery. <br />
+<ul>
+ 	<li><span style="font-size: medium;">Custom CSS, JS and external URLs(scripts, CSS) on individual posts.</span></li>
+  <li><span style="font-size: medium;">Custom CSS, JS and external URLs(scripts, CSS) on pages.</span></li>
+ 	<li><span style="font-size: medium;">Custom CSS, JS and external URLs(scripts, CSS) across the whole website.</span></li>
+</ul>
+
 
 
 
@@ -47,13 +45,3 @@ A - As soon you got the plugin active on your website you will find at the botto
 
 ![Nuno Sarmento custom CSS - JS](https://github.com/nfsarmento/nuno-sarmento-custom-css-js/blob/master/assets/images/screenshot-1.png "Optional title")
 
-
-
-**Changelog**
-
-1.0.0
-
-**Upgrade Notice**
-
-1.0.0
-Initial release
